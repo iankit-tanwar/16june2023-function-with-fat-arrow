@@ -2,7 +2,7 @@
 
 
 //1 function defiantion
-function aFunction(){
+function aFunction() {
     //every function return something
     //function body
     console.log('Hello from aFunction');
@@ -13,7 +13,7 @@ aFunction();
 
 // new way to defiantion function introduce to 2015  (Es6)
 //1 Functon defination 
- var bFunction =()=>{ // new style fat arrow
+var bFunction = () => { // new style fat arrow
 
     //every function return something
     //function body
@@ -27,7 +27,7 @@ bFunction();
 
 // Old way to definning function 
 //1 function defiantion
-function cFunction(){
+function cFunction() {
     //every function return something
     //function body
     console.log('Hello from cFunction');
@@ -38,7 +38,7 @@ cFunction();
 
 // new style fat arrow
 //1 function defination
-var dFunction=()=>{
+var dFunction = () => {
     //every function return something
     //function body
     console.log(`hello forn dFuction`);
@@ -48,7 +48,7 @@ dFunction();
 
 //old style 
 //1 function defination
-function eFunction (){
+function eFunction() {
     //every function return something
     //function body
     console.log("hello from eFunction")
@@ -58,7 +58,7 @@ eFunction();
 
 // new style
 //1 Function defination
-var fFunction =()=>{
+var fFunction = () => {
     //every function return something
     //function body
     console.log('hello from fFunction');
@@ -69,7 +69,7 @@ fFunction();
 
 //old style 
 //1 function defination
-function gFunction (){
+function gFunction() {
     //every function return something
     //function body
     console.log("hello from gFunction")
@@ -80,7 +80,7 @@ gFunction();
 
 // new style
 //1 Function defination
-var hFunction =()=>{
+var hFunction = () => {
     //every function return something
     //function body
     console.log('hello from hFunction');
@@ -90,7 +90,7 @@ hFunction();
 
 //old style 
 //1 function defination
-function hFunction (){
+function hFunction() {
     //every function return something
     //function body
     console.log("hello from hFunction")
@@ -100,7 +100,7 @@ hFunction();
 
 // new style
 //1 Function defination
-var iFunction =()=>{
+var iFunction = () => {
     //every function return something
     //function body
     console.log('hello from iFunction');
@@ -110,7 +110,7 @@ iFunction();
 
 //old style 
 //1 function defination
-function jFunction (){
+function jFunction() {
     //every function return something
     //function body
     console.log("hello from jFunction")
@@ -120,7 +120,7 @@ jFunction();
 
 // new style
 //1 Function defination
-var kFunction =()=>{
+var kFunction = () => {
     //every function return something
     //function body
     console.log('hello from kFunction');
@@ -131,7 +131,7 @@ kFunction();
 
 //old style 
 //1 function defination
-function kFunction (){
+function kFunction() {
     //every function return something
     //function body
     console.log("hello from kFunction")
@@ -141,7 +141,7 @@ kFunction();
 
 // new style
 //1 Function defination
-var lFunction =()=>{
+var lFunction = () => {
     //every function return something
     //function body
     console.log(`hello from lFunction`);
@@ -151,7 +151,7 @@ lFunction();
 
 //old style 
 //1 function defination
-function mFunction (){
+function mFunction() {
     //every function return something
     //function body
     console.log("hello from mFunction")
@@ -161,7 +161,7 @@ mFunction();
 
 // new style
 //1 Function defination
-var nFunction =()=>{
+var nFunction = () => {
     //every function return something
     //function body
     console.log(`hello from nFunction`);
@@ -171,7 +171,7 @@ nFunction();
 
 //old style 
 //1 function defination
-function oFunction (){
+function oFunction() {
     //every function return something
     //function body
     console.log("hello from oFunction")
@@ -181,7 +181,7 @@ oFunction();
 
 // new style
 //1 Function defination
-var pFunction =()=>{
+var pFunction = () => {
     //every function return something
     //function body
     console.log(`hello from pFunction`);
@@ -191,7 +191,7 @@ pFunction();
 
 //old style 
 //1 function defination
-function qFunction (){
+function qFunction() {
     //every function return something
     //function body
     console.log("hello from qFunction")
@@ -202,7 +202,7 @@ qFunction();
 
 // new style
 //1 Function defination
-var rFunction =()=>{
+var rFunction = () => {
     //every function return something
     //function body
     console.log(`hello from rFunction`);
@@ -212,7 +212,7 @@ rFunction();
 
 //old style 
 //1 function defination
-function sFunction (){
+function sFunction() {
     //every function return something
     //function body
     console.log("hello from sFunction")
@@ -222,7 +222,7 @@ sFunction();
 
 // new style
 //1 Function defination
-var tFunction =()=>{
+var tFunction = () => {
     //every function return something
     //function body
     console.log('hello from tFunction');
@@ -233,7 +233,7 @@ tFunction();
 
 //old style 
 //1 function defination
-function uFunction (){
+function uFunction() {
     //every function return something
     //function body
     console.log("hello from uFunction")
@@ -243,7 +243,7 @@ uFunction();
 
 // new style
 //1 Function defination
-var vFunction =()=>{
+var vFunction = () => {
     //every function return something
     //function body
     console.log('hello from vFunction');
@@ -254,7 +254,7 @@ vFunction();
 
 //old style 
 //1 function defination
-function xFunction (){
+function xFunction() {
     //every function return something
     //function body
     console.log("hello from xFunction")
@@ -264,7 +264,7 @@ xFunction();
 
 // new style
 //1 Function defination
-var yFunction =()=>{
+var yFunction = () => {
     //every function return something
     //function body
     console.log('hello from yFunction');
@@ -275,7 +275,7 @@ yFunction();
 
 //old style 
 //1 function defination
-function zFunction (){
+function zFunction() {
     //every function return something
     //function body
     console.log("hello from zFunction")
